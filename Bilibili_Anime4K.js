@@ -3,7 +3,7 @@
 // @name:zh-CN          Anime4K 2D动漫滤镜
 // @description         Base on Bilibili_Anime4K, Bring Anime4K to Bilibili and ACFun's HTML5 player to clearify 2D anime.
 // @description:zh-CN   基于 Bilibili_Anime4K，修复A站、B站上的问题，通过Anime4K滤镜让2D番剧更加清晰。
-// @namespace           http://net2cn.tk/
+// @namespace           cumbersun
 // @homepageURL         https://github.com/cumbersun/Bilibili_Anime4K/
 // @supportURL          https://github.com/cumbersun/Bilibili_Anime4K/issues
 // @version             0.5.0
